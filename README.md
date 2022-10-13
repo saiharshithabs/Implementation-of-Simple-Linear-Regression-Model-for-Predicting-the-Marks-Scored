@@ -80,6 +80,8 @@ print("RMSE = ",rmse)
 
 ![image](https://github.com/saiharshithabs/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/050156e0335af8b746ee7cabdbf5d0181c92f57f/WhatsApp%20Image%202022-10-13%20at%2011.18.35%20AM.jpeg)
 
+![image](https://github.com/saiharshithabs/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/f8b935fd6d9469f2022a94604ece55b8ef9e6929/WhatsApp%20Image%202022-10-13%20at%2011.21.30%20AM.jpeg)
+
 
 
 ## Result:
