@@ -76,6 +76,8 @@ print("RMSE = ",rmse)
 
 ![image](https://github.com/saiharshithabs/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/c7d928376eb61a4f47b0d21ac96c5b16944b3142/WhatsApp%20Image%202022-10-13%20at%2011.01.57%20AM.jpeg)
 
+![image](https://github.com/saiharshithabs/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/709c7ee4312ada713e0c5145a04914549df922f4/WhatsApp%20Image%202022-10-13%20at%2011.14.23%20AM.jpeg)
+
 
 
 ## Result:
