@@ -86,5 +86,7 @@ print("RMSE = ",rmse)
 
 ![image](https://github.com/saiharshithabs/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/bebc924ea333ee53dd33a17c5ea474262e67e906/WhatsApp%20Image%202022-10-13%20at%2011.27.23%20AM.jpeg)
 
+![image](https://github.com/saiharshithabs/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/blob/fb229bdead460d6ef57530c248b60746f6ff3bd4/WhatsApp%20Image%202022-10-13%20at%2011.30.16%20AM.jpeg)
+
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
