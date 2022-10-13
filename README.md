@@ -74,7 +74,7 @@ print("RMSE = ",rmse)
 
 ## Output:
 
-![image(WhatsApp Image 2022-10-13 at 11.01.57 AM.jpeg)
+![image(WhatsApp Image 2022-10-13 at 11.01.57 AM.jpeg)]
 
 
 
